@@ -1,0 +1,68 @@
+# Ignore system files and directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+desktop.ini
+NTUSER.DAT*
+*.lnk
+
+# Ignore specific files and directories
+.bash_history
+.cache/
+.gitconfig
+.ipython/
+.jupyter/
+.keras/
+.lesshst
+.matplotlib/
+.packettracer
+.streamlit/
+.vscode/
+Cisco Packet Tracer 8.2.1/
+Contacts/
+Downloads - Shortcut.lnk
+DroidCamApp.lnk
+Ecommerce/
+Ecommers/
+Microsoft Edge.lnk
+MongoDBCompass.lnk
+New folder (2)/
+New folder/
+OKmusi.lnk
+Photoshop CS3.lnk
+Postman.lnk
+ReactFolio/
+Spotify APP/
+The Celebrity Problem _ Practice _ GeeksforGeeks.html
+The Celebrity Problem _ Practice _ GeeksforGeeks_files/
+Visual Studio Code.lnk
+back end project/
+carwale/
+chat gpt code/
+ecommerse web python/
+flask/
+greensoftware/
+greenwebsite/
+jbfehneoigjeol/
+lecture2/
+new sign.jpg
+p/
+passwordPROJECT/
+project/
+react part 2/
+react2/
+recat1/
+sign.jpg
+ubuntu-22.04.3-desktop-amd64.iso
+view.htm
+html/
+myreactapp/
+swapnil.html
+swapnil.java
